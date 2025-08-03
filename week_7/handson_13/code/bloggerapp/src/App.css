@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  width: 300px;
+  border-left: 3px solid green;
+  padding: 15px;
+  line-height: 1.6;
+}
+
+.card h2 {
+  margin-bottom: 10px;
+  color: black;
+}
+
